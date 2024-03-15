@@ -24,11 +24,7 @@
 	Product Admin CSS Template
 	https://templatemo.com/tm-524-product-admin
 	-->
-	<style>
-    .superscript {
-        vertical-align: top;
-    }
-</style>
+
 </head>
 
 
@@ -43,7 +39,8 @@
           <div class="tm-bg-primary-dark tm-block tm-block-h-auto">
             <div class="row">
               <div class="col-12 text-center">
-                <h2 class="tm-block-title mb-4">KTX<span class="superscript">PTITHCM</span> - Trang quản lý</h2>
+                <h2 class="tm-block-title mb-4">KTX<sup>PTITHCM</sup> - Trang quản lý</h2>
+                <img src="assets/img/ptit.jpg" style="width:80px; height:80px;">
               </div>
             </div>
             <div class="row mt-2">
