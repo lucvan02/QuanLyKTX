@@ -1,1 +1,1 @@
-# QuanLyKTX
+# QuanLyKTX.
